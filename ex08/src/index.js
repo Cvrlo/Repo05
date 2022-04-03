@@ -1,7 +1,7 @@
 function main(){
     
-    var someAdjective = " the best!";
-    var myString = "Mistral is";
+    someAdjective = " the best!";
+    myString = "Mistral is";
     myString += someAdjective;
 
 

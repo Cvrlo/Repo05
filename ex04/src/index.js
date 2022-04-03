@@ -1,6 +1,6 @@
 function main(){
     
-    var myString = "FirstLine\n\tSecondeLine\nThirdLine"; 
+    var myString = "FirstLine\n\tSecondLine\nThirdLine"; 
      
 
     return myString;
