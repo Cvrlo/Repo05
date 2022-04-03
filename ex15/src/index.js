@@ -1,10 +1,10 @@
 function main(){
     
     var myNoun = "dog";
-    var myVerb = "ran";
+    var myVerb = " ran";
     var myAdjective = "big";
     var myAdverb = "quickly"
-    var wordBlanks = "My" + " big" + " black" + " dog" + " ran" + " very" + " quickly" + ".";
+    var wordBlanks = "My " + myAdjective + " black " + myNoun + myVerb + " very " + myAdverb + ".";
     
 
 
